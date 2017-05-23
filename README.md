@@ -12,6 +12,8 @@
 [gitter-image]: https://img.shields.io/badge/GITTER-join%20chat-green.svg?style=flat-square
 [gitter-url]: https://gitter.im/alibaba/macaca
 
+[![Join the chat at https://gitter.im/alibaba/macaca](https://badges.gitter.im/alibaba/macaca.svg)](https://gitter.im/alibaba/macaca?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Solution for Automation Test with Ease
 
 [中文版](README.zh.md)
