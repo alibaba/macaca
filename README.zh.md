@@ -30,15 +30,17 @@ Macaca 提供了标准化的驱动层，消除了各技术平台测试技术栈�
 
 ## 多语言栈支持
 
-Macaca 提供 Node.js, Java, Python 三大主流的语言栈，方便工程师和所在团队选择合适的开发语言。由于 Macaca 的工具链基于 Node.js，这个因素使得 Node.js 技术栈提供的支持和周边工具会相对多。Java 与 Python 有大量用实践，社区共享与贡献较多，也是很好的选择。
+Macaca 提供 [Node.js](https://macacajs.com/guide/nodejs.html)，[Java](https://macacajs.com/guide/java.html) 和 [Python](https://macacajs.com/guide/python.html) 三大主流的语言栈，方便工程师和所在团队选择合适的开发语言。
+
+由于 Macaca 的工具链基于 Node.js，这个因素使得 Node.js 技术栈提供的支持和周边工具会相对多。Java 与 Python 有大量用实践，社区共享与贡献较多，也是很好的选择。
 
 ## 集成和融合
 
 Macaca 提供了多种持续集成方案和功能模块，方便集成到研发和测试的各个环节。
 
-## 模块源码
+## 源代码
 
-模块源码位于[macacajs](https://github.com/macacajs).
+模块源代码位于[macacajs](https://github.com/macacajs).
 
 因为模块众多，推荐从[官网](https://macacajs.github.io)开始阅读。
 

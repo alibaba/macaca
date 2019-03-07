@@ -17,9 +17,9 @@
 Macaca is an open-source automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms.
 
 0. Native means apps written with iOS or android SDKs.
-0. Mobile web means apps written in HTML, CSS and Javascript and displayed via a mobile device browser such as Safari, Chrome or Webview in iOS and android.
+0. Mobile web means apps written in HTML, CSS and JavaScript and displayed via a mobile device browser such as Safari, Chrome or Webview in iOS and android.
 0. Hybrid is apps created by webview in native app.
-0. Web means apps written in HTML, CSS and Javascript.
+0. Web means apps written in HTML, CSS and JavaScript.
 
 Macaca is "cross-platform". It means you can use the same API to write test scripts, and same test scripts to test your apps running on devices such as iOS, Android or desktops.
 
@@ -54,7 +54,7 @@ Macaca uses session to accept and respond requests. A client initiates a session
 
 ### Client
 
-Macaca doesn't limit what client you use. We provide [Node.js](//macacajs.github.io/macaca-wd/), [Java](//macacajs.github.io/wd.java/) and [Python API](https://macacajs.com/python) libraries to get you started quickly.
+Macaca doesn't limit what client you use. We provide [Node.js](https://macacajs.com/guide/nodejs.html), [Java](https://macacajs.com/guide/java.html) and [Python](https://macacajs.com/guide/python.html) API libraries to get you started quickly.
 
 ## Source Code
 
