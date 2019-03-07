@@ -36,12 +36,17 @@ Macaca 提供 Node.js, Java, Python 三大主流的语言栈，方便工程师�
 
 Macaca 提供了多种持续集成方案和功能模块，方便集成到研发和测试的各个环节。
 
+## 模块源码
+
+模块源码位于[macacajs](https://github.com/macacajs).
+
+因为模块众多，推荐从[官网](https://macacajs.github.io)开始阅读。
+
 ## 帮助支持
 
 - [官网](//macacajs.github.io/zh)
 - [示例集合](//github.com/macaca-sample)
 - [重要里程碑](//macacajs.github.io/zh/guide/roadmap.html)
-- [模块源码](//github.com/macacajs)
 - [社区精华](//github.com/macacajs/awesome-macaca)
 - [社区支持](//macacajs.github.io/zh/guide/support.html)
 

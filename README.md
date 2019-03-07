@@ -56,12 +56,17 @@ Macaca uses session to accept and respond requests. A client initiates a session
 
 Macaca doesn't limit what client you use. We provide [Node.js](//macacajs.github.io/macaca-wd/), [Java](//macacajs.github.io/wd.java/) and [Python API](https://macacajs.com/python) libraries to get you started quickly.
 
+## Source Code
+
+Source code is maintained in different repos within [macacajs](https://github.com/macacajs).
+
+It is recommended to get started from the [official site](https://macacajs.github.io), since there are many repos in macacajs.
+
 ## Help and Support
 
 - [Official Site](//macacajs.github.io)
 - [Samples](//github.com/macaca-sample)
 - [Roadmap](//macacajs.github.io/guide/roadmap.html)
-- [Source Code](//github.com/macacajs)
 - [Awesome](//github.com/macacajs/awesome-macaca)
 - [Community Support](//macacajs.github.io/guide/support.html)
 
