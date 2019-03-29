@@ -24,6 +24,10 @@ Macaca 是一套面向用户端软件的测试解决方案，提供了自动化�
 
 > Macaca 的底层设计便于端的横向扩展，会根据开发平台提供的测试驱动及时调整集成方案。
 
+## 系统架构
+
+![](https://wx2.sinaimg.cn/large/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg)
+
 ## 标准化
 
 Macaca 提供了标准化的驱动层，消除了各技术平台测试技术栈的差异。用户只需要遵从 [W3C webdriver 标准](//w3c.github.io/webdriver/webdriver-spec.html)即可多端无忧，理解成本降低。

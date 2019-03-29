@@ -38,6 +38,10 @@ Macaca doesn't limit what languages you will use to write your tests.
 0. Macaca supports major browsers such as Chrome, Firefox, Safari.
 0. Macaca follows [W3C WebDriver Wire Protocol](//www.w3.org/TR/webdriver/).It means Macaca has much better chances to be compatible with current and future web standard.
 
+## Architecture
+
+![](https://wx2.sinaimg.cn/large/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg)
+
 ## Macaca Concepts
 
 ### Server
