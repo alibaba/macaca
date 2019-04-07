@@ -30,17 +30,21 @@ Macaca doesn't limit what languages you will use to write your tests.
 ## Features
 
 0. Macaca has a [MIT license](https://opensource.org/licenses/MIT).
-0. Macaca's Inspector(//macacajs.com/inspector) is web based.
-0. Macaca's iOS WebDriver is written by Swift and in-house built.
-0. Macaca's Android WebDrive is in-house built, and supports Android UIAutomator 2.0.
-0. Macaca has built-in [UI recorder](//macacajs.com/recorder) functionality.
-0. Macaca has built-in support for using computer vision to verify UI elements
+0. Macaca's [App Inspector](https://macacajs.com/app-inspector/) is web based.
+0. Macaca's [iOS WebDriver](https://github.com/macacajs/XCTestWD) is written in Swift and built in-house.
+0. Macaca's Android WebDrive is built in-house, and supports Android UIAutomator 2.0.
+0. Macaca has built-in [UI recorder](https://macacajs.github.io/guide/recorder.html) functionality.
+0. Macaca has built-in support for using [computer vision](https://macacajs.github.io/guide/computer-vision.html) to verify UI elements.
 0. Macaca supports major browsers such as Chrome, Firefox, Safari.
-0. Macaca follows [W3C WebDriver Wire Protocol](//www.w3.org/TR/webdriver/).It means Macaca has much better chances to be compatible with current and future web standard.
+0. Macaca follows [W3C WebDriver Wire Protocol](//www.w3.org/TR/webdriver/). It means Macaca has much better chances to be compatible with current and future web standard.
 
 ## Architecture
 
 ![](https://wx2.sinaimg.cn/large/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg)
+
+## Macaca Community Ecosystem
+
+![](https://wx4.sinaimg.cn/large/88fe9010gy1g1u1s0bzwsj20rz0kwtdx.jpg)
 
 ## Macaca Concepts
 
