@@ -14,7 +14,7 @@
 
 [中文版](README.zh.md)
 
-Macaca is an open-source automation test solution for native, hybrid, mobile web and web application<sup>[1](#native-mobile-hybrid)</sup> on mobile and desktop platforms.
+Macaca is an open-source automation solution for multi-platform.
 
 ---
 
