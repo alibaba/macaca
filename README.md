@@ -10,6 +10,10 @@
 
 ---
 
+**查看源代码可以到** [#源码说明](#%E6%BA%90%E4%BB%A3%E7%A0%81)
+
+---
+
 # Macaca
 
 [English Edition](README.en.md)
